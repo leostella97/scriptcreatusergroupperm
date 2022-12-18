@@ -34,5 +34,8 @@ chmod 770 /ven
 chmod 770 /sec
 chmod 777 /publico
 
+echo "Adicionando permissão geral para todos"
+chmod 777
+
 echo "Fim..."
 
